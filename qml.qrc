@@ -1,5 +1,29 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>icon/close_30px.png</file>
+        <file>icon/green_off.png</file>
+        <file>icon/green_on.png</file>
+        <file>icon/left.svg</file>
+        <file>icon/pause.svg</file>
+        <file>icon/pause_30px.png</file>
+        <file>icon/play.svg</file>
+        <file>icon/play_30px.png</file>
+        <file>icon/red_off.png</file>
+        <file>icon/red_on.png</file>
+        <file>icon/right.svg</file>
+        <file>icon/run.svg</file>
+        <file>icon/sensor_disabled.png</file>
+        <file>icon/settings_30px.png</file>
+        <file>icon/stop.svg</file>
+        <file>icon/straight.svg</file>
+        <file>icon/turn-left.svg</file>
+        <file>icon/turn-right.svg</file>
+        <file>icon/up.svg</file>
+        <file>icon/usb_connector_50px.png</file>
+        <file>icon/warning_30px.png</file>
+        <file>icon/yellow_off.png</file>
+        <file>icon/yellow_on.png</file>
+        <file>icon/battery_48dp.png</file>
     </qresource>
 </RCC>
