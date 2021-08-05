@@ -27,5 +27,11 @@
         <file>icon/battery_48dp.png</file>
         <file>icon/warning_48dp.png</file>
         <file>icon/setting_48dp.png</file>
+        <file>icon/64px_light_green_off.png</file>
+        <file>icon/64px_light_green_on.png</file>
+        <file>icon/64px_light_red_on.png</file>
+        <file>icon/64px_light_yellow_off.png</file>
+        <file>icon/64px_light_yellow_on.png</file>
+        <file>icon/64px_off_light_red_off.png</file>
     </qresource>
 </RCC>
