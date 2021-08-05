@@ -180,11 +180,11 @@ ApplicationWindow {
                             font.pixelSize: 20
                             font.bold: true
                             color: "#ffffff"
-                            
+
                         }
                     }
                 }
-                
+
                 Rectangle{
                     gradient: Gradient {
                         GradientStop { position: 0.0; color: "#ffffff" }
@@ -251,11 +251,11 @@ ApplicationWindow {
                             font.pixelSize: 20
                             font.bold: true
                            color: "#ffffff"
-                            
+
                         }
                     }
                 }
-                
+
                 Rectangle{
                     gradient: Gradient {
                         GradientStop { position: 0.0; color: "#ffffff" }
@@ -496,11 +496,11 @@ ApplicationWindow {
                             font.pixelSize: 20
                             font.bold: true
                             color: "#ffffff"
-                            
+
                         }
                     }
                 }
-                
+
                 Rectangle{
                     gradient: Gradient {
                         GradientStop { position: 0.0; color: "#ffffff" }
@@ -600,22 +600,6 @@ ApplicationWindow {
                 }
             }
         }
-//        Rectangle {
-//            color: "#0099dc"
-//            Layout.fillHeight: true
-//            Layout.fillWidth: true
-//            border.width: 0
-//            GridLayout{
-//                columns: 2
-//                rows: 2
-//                columnSpacing: 15
-//                rowSpacing: 15
-//                anchors.fill: parent
-//                anchors.margins: 10
-                
-//            }
-//        }
-        
 
     }
 
