@@ -25,5 +25,7 @@
         <file>icon/yellow_off.png</file>
         <file>icon/yellow_on.png</file>
         <file>icon/battery_48dp.png</file>
+        <file>icon/warning_48dp.png</file>
+        <file>icon/setting_48dp.png</file>
     </qresource>
 </RCC>
